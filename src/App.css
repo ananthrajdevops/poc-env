@@ -1,0 +1,26 @@
+.table-header {
+  background-color: #555;
+  color: white;
+  padding: 12px 16px;
+  text-align: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 1px;
+  border-bottom: 2px solid #ddd;
+  width: 25vw;
+}
+
+.table-data {
+  padding: 12px 16px;
+  border-bottom: 1px solid #ddd;
+  width: 25vw;
+}
+
+.table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 50rem;
+}
